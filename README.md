@@ -10,7 +10,6 @@ Para instalar el programa, primero es necesario descomprimir el archivo rar adju
 
 El programa iniciara de forma automatica en el index, contamos con el perfil de super Admin, el cual las credenciales son; usuario 1003950656 contraseña=hola123, en el cual podemos agregar, modificar o eliminar los libros agregados.
 
-En dado caso de que el registro de usuarios falle se puede validar con el usuario 1000987761 contraseña=123456789
 --------------------------------------------------------------------------------------------------------------------
 
 
